@@ -1,5 +1,7 @@
 # update-check 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zeit/update-check.svg)](https://greenkeeper.io/)
+
 This is a very minimal approach to update checking for [globally installed](https://docs.npmjs.com/getting-started/installing-npm-packages-globally) packages.
 
 Because it's so simple, the error surface is very tiny and your user's are guaranteed to receive the update message if there's a new version.
